@@ -5,7 +5,7 @@ import racingcar.racing.domain.Car;
 
 public class OutputView {
     public void printExecutionHeader() {
-        System.out.println("실행 결과");
+        System.out.println("\n실행 결과");
     }
 
     public void printRound(List<Car> cars) {
